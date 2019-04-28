@@ -1,2 +1,4 @@
 this is info text
 add info here
+
+reseted text
